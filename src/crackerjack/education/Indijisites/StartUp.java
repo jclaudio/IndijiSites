@@ -9,6 +9,7 @@ import android.support.v4.app.FragmentActivity;
 import android.app.AlertDialog;
 import android.view.MenuItem;
 
+@SuppressWarnings("unused")
 public class StartUp extends FragmentActivity {
 
 	@Override
